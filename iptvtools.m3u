@@ -77,6 +77,34 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/C9rxqA5.png" group-title="Entertainment",TVI Reality (480p) [Geo-blocked]
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+#EXTINF:-1 tvg-id="sic.mulher.pt" tvg-name="SIC Mulher" tvg-logo="https://vtpi-logo.xyz/logos/4583.png" group-title="Portugal Geral",SIC Mulher
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4583.ts
+#EXTINF:-1 tvg-id="sic.noticias.pt" tvg-name="SIC NOTICIAS" tvg-logo="https://vtpi-logo.xyz/logos/4584.png" group-title="Portugal Geral",SIC NOTICIAS
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4584.ts
+#EXTINF:-1 tvg-id="sic.radical.pt" tvg-name="SIC Radical" tvg-logo="https://vtpi-logo.xyz/logos/4585.png" group-title="Portugal Geral",SIC Radical
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4585.ts
+#EXTINF:-1 tvg-id="sport.plus.pt" tvg-name="SPORT TV +" tvg-logo="https://vtpi-logo.xyz/logos/4649.png" group-title="Portugal Esportes",SPORT TV +
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4649.ts
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="Sport TV 1" tvg-logo="https://vtpi-logo.xyz/logos/4662.png" group-title="Portugal Esportes",Sport TV 1
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4662.ts
+#EXTINF:-1 tvg-id="sport.tv1.pt" tvg-name="Sport TV 1 FHD" tvg-logo="https://vtpi-logo.xyz/logos/4660.png" group-title="Portugal Esportes",Sport TV 1 FHD
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4660.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD (720P)" tvg-logo="https://vtpi-logo.xyz/logos/4661.png" group-title="Portugal Esportes",SPORT TV 1 HD (720P)
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4661.ts
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="Sport TV 2" tvg-logo="https://vtpi-logo.xyz/logos/4664.png" group-title="Portugal Esportes",Sport TV 2
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4664.ts
+#EXTINF:-1 tvg-id="sport.tv2.pt" tvg-name="Sport TV 2 FHD" tvg-logo="https://vtpi-logo.xyz/logos/4663.png" group-title="Portugal Esportes",Sport TV 2 FHD
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4663.ts
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="Sport TV 3" tvg-logo="https://vtpi-logo.xyz/logos/4666.png" group-title="Portugal Esportes",Sport TV 3
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4666.ts
+#EXTINF:-1 tvg-id="sport.tv3.pt" tvg-name="Sport TV 3 FHD" tvg-logo="https://vtpi-logo.xyz/logos/4665.png" group-title="Portugal Esportes",Sport TV 3 FHD
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4665.ts
+#EXTINF:-1 tvg-id="sport.tv4.pt" tvg-name="Sport TV 4" tvg-logo="https://vtpi-logo.xyz/logos/4667.png" group-title="Portugal Esportes",Sport TV 4
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4667.ts
+#EXTINF:-1 tvg-id="sport.tv5.pt" tvg-name="Sport TV 5" tvg-logo="https://vtpi-logo.xyz/logos/4668.png" group-title="Portugal Esportes",Sport TV 5
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4668.ts
+#EXTINF:-1 tvg-id="sporting.pt" tvg-name="Sporting TV HD" tvg-logo="https://vtpi-logo.xyz/logos/4659.png" group-title="Portugal Esportes",Sporting TV HD
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4659.ts
 #EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="Eleven Sports 1 FHD (back up)" tvg-logo="https://vtpi-logo.xyz/logos/4670.png" group-title="Portugal Esportes",Eleven Sports 1 FHD (back up)
 http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4670.ts
 #EXTINF:-1 tvg-id="eleven.sports.1.pt" tvg-name="Eleven Sports 1 FHD 1080" tvg-logo="https://vtpi-logo.xyz/logos/4669.png" group-title="Portugal Esportes",Eleven Sports 1 FHD 1080
@@ -121,3 +149,17 @@ http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4689.ts
 http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4690.ts
 #EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="Eleven Sports 6 SD" tvg-logo="https://vtpi-logo.xyz/logos/4681.png" group-title="Portugal Esportes",Eleven Sports 6 SD
 http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/4681.ts
+#EXTINF:-1 tvg-id="" tvg-name="Big Ass Adult TV" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Adult | Adult -18",Big Ass Adult TV
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/17681.ts
+#EXTINF:-1 tvg-id="" tvg-name="Big Dick Red TV" tvg-logo="https://i.imgur.com/iNmHyo2.png" group-title="Adult | Adult -18",Big Dick Red TV
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/17682.ts
+#EXTINF:-1 tvg-id="" tvg-name="Big Tits Adult TV" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Adult | Adult -18",Big Tits Adult TV
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/17683.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blacked HD" tvg-logo="http://live.wolfiptv.tk:80/images/ab1e69f318e18dff9d5677168990759a.png" group-title="Adult | Adult -18",Blacked HD
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/17684.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blonde Adult TV" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="Adult | Adult -18",Blonde Adult TV
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/17685.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blowjob Red TV" tvg-logo="https://i.imgur.com/xfIelNY.png" group-title="Adult | Adult -18",Blowjob Red TV
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/17686.ts
+#EXTINF:-1 tvg-id="" tvg-name="Blue Hustler" tvg-logo="" group-title="Adult | Adult -18",Blue Hustler
+http://fast.bounceme.net:8080/live/bqdh7xcsQB/fhBeCzAJNX/6592.ts
